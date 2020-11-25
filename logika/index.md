@@ -1,8 +1,3 @@
----
-name: Site name that appears as HTML “title”
-title: null
----
-
 # Ćwiczenia z Logiki
 
 ## Ćwiczenia 4 - zestaw A - Rachunek zdań. Dowodzenie twierdzeń. Logiczna konsekwencja.
