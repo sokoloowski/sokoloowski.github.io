@@ -1,7 +1,5 @@
-# Test page
+# Ćwiczenia 4 - zestaw A - Rachunek zdań. Dowodzenie twierdzeń. Logiczna konsekwencja.
 
-table | table
-:----:|:-----:
-table | table
+## 1. Zbadać dowolnąmetodą, czy następujące formuły są spełnialne i czy są tautologiami:
 
-![formula](https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1)
+### a) ![(p => q) or r) and (not p => r)](https://render.githubusercontent.com/render/math?math=((p\Rightarrow{q})\lor{r})\land(\lnot{p}\Rightarrow{r}))
