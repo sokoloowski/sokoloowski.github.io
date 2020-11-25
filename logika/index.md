@@ -1,5 +1,11 @@
-# Ćwiczenia 4 - zestaw A - Rachunek zdań. Dowodzenie twierdzeń. Logiczna konsekwencja.
+---
+title-heading: false
+---
 
-## 1. Zbadać dowolnąmetodą, czy następujące formuły są spełnialne i czy są tautologiami:
+# Ćwiczenia z Logiki
 
-### a) ![(p => q) or r) and (not p => r)](https://render.githubusercontent.com/render/math?math=((p\Rightarrow{q})\lor{r})\land(\lnot{p}\Rightarrow{r}))
+## Ćwiczenia 4 - zestaw A - Rachunek zdań. Dowodzenie twierdzeń. Logiczna konsekwencja.
+
+### 1. Zbadać dowolną metodą, czy następujące formuły są spełnialne i czy są tautologiami:
+
+1. ![(p => q) or r) and (not p => r)](https://render.githubusercontent.com/render/math?math=((p\Rightarrow{q})\lor{r})\land(\lnot{p}\Rightarrow{r}))
