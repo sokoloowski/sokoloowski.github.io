@@ -1,5 +1,6 @@
 ---
-title-heading: false
+name: Site name that appears as HTML “title”
+title: null
 ---
 
 # Ćwiczenia z Logiki
