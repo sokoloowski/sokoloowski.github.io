@@ -2,4 +2,4 @@
 
 ## Strona główna
 
-{% include_relative includes/header.md %}
+{% include_relative includes/footer.md %}
