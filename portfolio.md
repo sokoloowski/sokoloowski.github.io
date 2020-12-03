@@ -1,5 +1,5 @@
 ---
-title: Sokoloowski - portfolio
+title: Portfolio
 ---
 
 {% include_relative includes/header.md %}

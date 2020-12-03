@@ -1,5 +1,5 @@
 ---
-title: Sokoloowski - strona główna
+title: Strona główna
 ---
 
 {% include_relative includes/header.md %}

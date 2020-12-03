@@ -1,5 +1,5 @@
 ---
-title: Sokoloowski - kwalifikacje
+title: Kwalifikacje
 ---
 
 
