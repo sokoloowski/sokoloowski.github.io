@@ -1,3 +1,7 @@
+---
+title: Sokoloowski - strona główna
+---
+
 {% include_relative includes/header.md %}
 
 ## Strona główna
