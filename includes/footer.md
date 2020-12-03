@@ -2,5 +2,5 @@
 ---
 
 <p align="center">
-© [Sokol👀wski](https://sokoloowski.pl/)
+© <a href="https://sokoloowski.pl/" target="_blank">Sokol👀wski</a>
 </p>
