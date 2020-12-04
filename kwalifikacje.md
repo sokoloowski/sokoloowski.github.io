@@ -2,9 +2,8 @@
 title: Kwalifikacje
 ---
 
-
-{% include_relative includes/header.md %}
+{% include header.md %}
 
 ## Kwalifikacje
 
-{% include_relative includes/footer.md %}
+{% include footer.md %}

@@ -2,8 +2,8 @@
 title: Strona główna
 ---
 
-{% include_relative includes/header.md %}
+{% include header.md %}
 
 ## Strona główna
 
-{% include_relative includes/footer.md %}
+{% include footer.md %}
