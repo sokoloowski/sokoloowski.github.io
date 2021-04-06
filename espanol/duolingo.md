@@ -30,12 +30,14 @@ W języku hiszpańskim dopuszczalne jest pominięcie podmiotu, w związku z czym
 
 Słówka w lekcji:
 
--   el pan - chleb
--   la manzana - jabłko
--   la leche - mleko
--   la agua - woda
--   bebo - piję
--   como - jem
+|  Español   | Polski |
+| :--------: | :----: |
+|   el pan   | chleb  |
+| la manzana | jabłko |
+|  la leche  | mleko  |
+|  la agua   |  woda  |
+|    bebo    |  piję  |
+|    como    |  jem   |
 
 ## Phrases
 
@@ -60,19 +62,21 @@ Wymowa w języku hiszpańskim:
 
 Słówka w lekcji:
 
--   sí - tak
--   no - nie
--   buenos días - dzień dobry (rano)
--   buenas tardes - dzień dobry (po południu)
--   buenas noches - dobry wieczór / dobranoc
--   hola - cześć (na powitanie)
--   adiós - cześć (na pożegnanie)
--   mucho gusto - miło Cię widzieć
--   disculpe - przepraszam
--   lo siento - przykro mi
--   gracias - dziękuję
--   por favor - proszę
--   de nada - nie ma sprawy (ang. you're welcome)
+|    Español    |               Polski                |
+| :-----------: | :---------------------------------: |
+|      sí       |                 tak                 |
+|      no       |                 nie                 |
+|  buenos días  |         dzień dobry (rano)          |
+| buenas tardes |      dzień dobry (po południu)      |
+| buenas noches |      dobry wieczór / dobranoc       |
+|     hola      |        cześć (na powitanie)         |
+|     adiós     |        cześć (na pożegnanie)        |
+|  mucho gusto  |          miło Cię widzieć           |
+|   disculpe    |             przepraszam             |
+|   lo siento   |             przykro mi              |
+|    gracias    |              dziękuję               |
+|   por favor   |               proszę                |
+|    de nada    | nie ma sprawy (ang. you're welcome) |
 
 ## Travel
 
