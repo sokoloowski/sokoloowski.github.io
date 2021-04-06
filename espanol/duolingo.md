@@ -6,8 +6,7 @@ title: Español
 
 ## Lekcje Duolingo
 
--   TOC
-    {:toc}
+{% include toc.md %}
 
 ## Intro
 
