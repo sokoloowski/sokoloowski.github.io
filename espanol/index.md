@@ -10,7 +10,7 @@ Rzeczowniki rodzaju żeńskiego w języku hiszpańskim kończą się na -a
 
 |  Español  |  Polski  |
 | :-------: | :------: |
-|  hablar   |   mieć   |
+|  hablar   |   mówić   |
 |  comprar  | kupować  |
 |   pagar   |  płacić  |
 | la cuenta | rachunek |
