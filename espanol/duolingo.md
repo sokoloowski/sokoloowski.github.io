@@ -6,8 +6,8 @@ title: Español
 
 ## Lekcje Duolingo
 
--   TOC
-    {:toc}
+* TOC
+{:toc}
 
 ## Intro
 
@@ -26,6 +26,8 @@ Podobnie jak w języku polskim i angielskim, czasowniki zmieniają się zależni
 | Tú eres | Ty jesteś |
 |  Él es  |  On jest  |
 | Ella es | Ona jest  |
+
+W języku hiszpańskim dopuszczalne jest pominięcie podmiotu, w związku z czym zdanie "Yo soy un niño" znaczy dokładnie to samo, co "Soy un niño".
 
 **Uwaga**: "el" i "él" to dwa różne wyrazy! Pierwszy jest przedimkiem (odpowiednik angielskiego "the" dla rodzaju męskiego), drugi oznacza "on" (trzecia osoba liczby pojedyńczej).
 
