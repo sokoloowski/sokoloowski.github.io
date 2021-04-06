@@ -22,7 +22,7 @@ title: Español
 Istnieje również zwrot "usted" znaczący "pan" lub "pani":
 
 > Tú eres una mujer. - Ty jesteś kobietą.
->
+
 > Usted es una mujer. - Pani jest kobietą.
 
 Jest to zwrot grzecznościowy, używany także w języku formalnym.
