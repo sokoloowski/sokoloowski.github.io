@@ -4,6 +4,8 @@ title: Español
 
 # Español - Hiszpański
 
+[Podsumowanie lekcji Duolingo](duolingo/)
+
 ## Osoby
 
 | Español | Polski  |
