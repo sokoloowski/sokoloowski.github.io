@@ -19,16 +19,16 @@ Rzeczowniki rodzaju żeńskiego w języku hiszpańskim kończą się na -a
 
 | Español |  Polski   |
 | :-----: | :-------: |
-|  Azul   | Niebieski |
-|  Verde  |  Zielony  |
-|  Gris   |   Szary   |
-|  Roja   | Czerwony  |
+|  azul   | niebieski |
+|  verde  |  zielony  |
+|  gris   |   szary   |
+|  roja   | czerwony  |
 
 ## Czas teraźniejszy
 
 |      | -ar | hablar | comprar |
 | :--: | :-: | :----: | :-----: |
-|  Yo  | -o  | hablo  | compro  |
-|  Tú  | -as | hablas | compras |
-|  Él  | -a  | habla  | compra  |
-| Ella | -a  | habla  | compra  |
+|  yo  | -o  | hablo  | compro  |
+|  tú  | -as | hablas | compras |
+|  él  | -a  | habla  | compra  |
+| ella | -a  | habla  | compra  |
