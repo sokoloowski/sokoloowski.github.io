@@ -4,16 +4,18 @@ title: Español
 
 # Español - Hiszpański
 
-## Słówka
+## Osoby
 
-Rzeczowniki rodzaju żeńskiego w języku hiszpańskim kończą się na -a
-
-|  Español  |  Polski  |
-| :-------: | :------: |
-|  hablar   |  mówić   |
-|  comprar  | kupować  |
-|   pagar   |  płacić  |
-| la cuenta | rachunek |
+| Español | Polski  |
+| :-----: | :-----: |
+|   yo    |   ja    |
+|   tú    |   ty    |
+|   ér    |   on    |
+|  ella   |   ona   |
+|   eso   |   ono   |
+| nosotro |   my    |
+|   tú    |   wy    |
+|  ellos  | oni/one |
 
 ## Kolory
 
