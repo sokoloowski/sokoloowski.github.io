@@ -41,18 +41,19 @@ Słówka w lekcji:
 
 Słówka w lekcji:
 
-- sí - tak
-- no - nie
-- buenos días - dzień dobry (rano)
-- buenas tardes - dzień dobry (po południu)
-- buenas noches - dobry wieczór / dobranoc
-- hola - cześć (na powitanie)
-- adiós - cześć (na pożegnanie)
-- mucho gusto - miło Cię widzieć
-- disculpe - przepraszam
-- gracias - dziękuję
-- por favor - proszę
-- de nada - nie ma sprawy (ang. you're welcome)
+-   sí - tak
+-   no - nie
+-   buenos días - dzień dobry (rano)
+-   buenas tardes - dzień dobry (po południu)
+-   buenas noches - dobry wieczór / dobranoc
+-   hola - cześć (na powitanie)
+-   adiós - cześć (na pożegnanie)
+-   mucho gusto - miło Cię widzieć
+-   disculpe - przepraszam
+-   lo siento - przykro mi
+-   gracias - dziękuję
+-   por favor - proszę
+-   de nada - nie ma sprawy (ang. you're welcome)
 
 ## Travel
 
