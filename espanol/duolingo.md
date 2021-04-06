@@ -2,9 +2,7 @@
 title: Español
 ---
 
-# Español - Hiszpański
-
-## Lekcje Duolingo
+# Español - Podsumowanie lekcji Duolingo
 
 {% include toc.md %}
 
