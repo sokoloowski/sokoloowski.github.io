@@ -21,18 +21,20 @@ title: Español
 
 Istnieje również zwrot "usted" znaczący "pan" lub "pani":
 
--   Tú eres una mujer - ty jesteś kobietą
--   Usted es una mujer - Pani jest kobietą
+> Tú eres una mujer - ty jesteś kobietą
+>
+> Usted es una mujer - Pani jest kobietą
 
 ## Kolory
 
-| Español |  Polski   |
-| :-----: | :-------: |
-|  azul   | niebieski |
-|  verde  |  zielony  |
-|  gris   |   szary   |
-|  roja   | czerwony  |
-| marrón  |  brązowy  |
+| Español  |  Polski   |
+| :------: | :-------: |
+|   azul   | niebieski |
+|  verde   |  zielony  |
+|   gris   |   szary   |
+|   roja   | czerwony  |
+|  marrón  |  brązowy  |
+| amarillo |   żółty   |
 
 ## Czas teraźniejszy
 
