@@ -1,13 +1,12 @@
 ---
 title: Español
-markdown: kramdown
 ---
 
 # Español - Hiszpański
 
 ## Lekcje Duolingo
 
--   TOC {:toc}
+{:toc}
 
 ## Intro
 
