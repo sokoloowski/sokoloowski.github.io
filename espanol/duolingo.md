@@ -43,22 +43,22 @@ Słówka w lekcji:
 
 Wymowa w języku hiszpańskim:
 
-- -ll- - j
-  - calle (ulica) - kaje
-  - ella (ona) - eja
-- y - i
-  - yo (ja) - io/jo
-  - y (i) - i
-- h - nie wymawiamy
-  - hola (cześć) - ola
-  - hotel - otel
-  - hablo (mówię) - ablo
-- j - h
-  - mujer (kobieta) - muher
-- ch - cz
-  - leche (mleko) - lecze/liecze
-- ñ - ń/ni
-  - niño (chłopiec) - ninio
+-   -ll- - j
+    -   calle (ulica) - kaje
+    -   ella (ona) - eja
+-   y - i
+    -   yo (ja) - io/jo
+    -   y (i) - i
+-   h - nie wymawiamy
+    -   hola (cześć) - ola
+    -   hotel - otel
+    -   hablo (mówię) - ablo
+-   j - h
+    -   mujer (kobieta) - muher
+-   ch - cz
+    -   leche (mleko) - lecze/liecze
+-   ñ - ń/ni
+    -   niño (chłopiec) - ninio
 
 Słówka w lekcji:
 
