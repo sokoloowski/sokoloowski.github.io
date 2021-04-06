@@ -30,11 +30,12 @@ W języku hiszpańskim dopuszczalne jest pominięcie podmiotu, w związku z czym
 
 Słówka w lekcji:
 
-- manzana - jabłko
-- leche - mleko
-- agua - woda
-- bebo - piję
-- como - jem
+-   el pan - chleb
+-   la manzana - jabłko
+-   la leche - mleko
+-   la agua - woda
+-   bebo - piję
+-   como - jem
 
 ## Phrases
 
