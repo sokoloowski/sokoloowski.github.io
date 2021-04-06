@@ -26,9 +26,18 @@ Rzeczowniki rodzaju żeńskiego w języku hiszpańskim kończą się na -a
 
 ## Czas teraźniejszy
 
-|      | -ar | hablar | comprar |
-| :--: | :-: | :----: | :-----: |
-|  yo  | -o  | hablo  | compro  |
-|  tú  | -as | hablas | compras |
-|  él  | -a  | habla  | compra  |
-| ella | -a  | habla  | compra  |
+### Standardowa odmiana (-ar/-er/-ir)
+
+|         | -ar | hablar | comprar |     | -er/-ir | comer | vivir |
+| :-----: | :-: | :----: | :-----: | :-: | :-----: | :---: | :---: |
+|   yo    | -o  | hablo  | compro  |     |   -o    | como  | vivo  |
+|   tú    | -as | hablas | compras |     |   -es   | comes | vives |
+| él/ella | -a  | habla  | compra  |     |   -e    | come  | vive  |
+
+### Wyjątki (do zapamiętania)
+
+|         | ser  | estar | tener  |
+| :-----: | :--: | :---: | :----: |
+|   yo    | soy  | estoy | tengo  |
+|   tú    | eres | estas | tienes |
+| él/ella |  es  | está  | tiene  |
