@@ -10,7 +10,7 @@ Rzeczowniki rodzaju żeńskiego w języku hiszpańskim kończą się na -a
 
 |  Español  |  Polski  |
 | :-------: | :------: |
-|  hablar   |   mówić   |
+|  hablar   |  mówić   |
 |  comprar  | kupować  |
 |   pagar   |  płacić  |
 | la cuenta | rachunek |
@@ -23,21 +23,32 @@ Rzeczowniki rodzaju żeńskiego w języku hiszpańskim kończą się na -a
 |  verde  |  zielony  |
 |  gris   |   szary   |
 |  roja   | czerwony  |
+| marrón  |  brązowy  |
 
 ## Czas teraźniejszy
 
-### Standardowa odmiana (-ar/-er/-ir)
+### Standardowa odmiana
 
-|         | -ar | hablar | comprar |     | -er/-ir | comer | vivir |
-| :-----: | :-: | :----: | :-----: | :-: | :-----: | :---: | :---: |
-|   yo    | -o  | hablo  | compro  |     |   -o    | como  | vivo  |
-|   tú    | -as | hablas | compras |     |   -es   | comes | vives |
-| él/ella | -a  | habla  | compra  |     |   -e    | come  | vive  |
+#### Czasowniki z końcówką -ar
+
+|         | -ar | hablar (mówić) | comprar (kupować) |
+| :-----: | :-: | :------------: | :---------------: |
+|   yo    | -o  |     hablo      |      compro       |
+|   tú    | -as |     hablas     |      compras      |
+| él/ella | -a  |     habla      |      compra       |
+
+#### Czasowniki z końcówką -er/-ir
+
+|         | -er/-ir | comer (jeść) | viver (żyć) |
+| :-----: | :-----: | :----------: | :---------: |
+|   yo    |   -o    |     como     |    vivo     |
+|   tú    |   -es   |    comes     |    vives    |
+| él/ella |   -e    |     come     |    vive     |
 
 ### Wyjątki (do zapamiętania)
 
-|         | ser  | estar | tener  |
-| :-----: | :--: | :---: | :----: |
-|   yo    | soy  | estoy | tengo  |
-|   tú    | eres | estas | tienes |
-| él/ella |  es  | está  | tiene  |
+|         | ser (być) | estar (być) | tener (mieć) |
+| :-----: | :-------: | :---------: | :----------: |
+|   yo    |    soy    |    estoy    |    tengo     |
+|   tú    |   eres    |    estás    |    tienes    |
+| él/ella |    es     |    está     |    tiene     |
