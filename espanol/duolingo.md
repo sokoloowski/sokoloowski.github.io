@@ -80,6 +80,35 @@ Słówka w lekcji:
 
 ## Travel
 
+W pierwszej lekcji pojawiło się słówko "es", które znaczy "jest". Drugim słowem o tym samym znaczeniu jest "está". Tego drugiego używamy, gdy chcemy powiedzeć, gdzie ktoś lub coś się znajduje:
+
+> ¡El taxi está aquí! - Taksówka jest tutaj!
+
+Słówka "está" używamy też, gdy mówimy o czymś chwilowo prawdziwym:
+
+> El hotel está cerrado. - Hotel jest zamknięty.
+
+Słówko "es" jest używane do opisu cech ludzi i przedmiotów:
+
+> El taxi es amarillo. - Taksówka jest żółta.
+
+Słówka w lekcji:
+
+|     Español     |   Polski    |
+| :-------------: | :---------: |
+|     el tren     |   pociąg    |
+|  el aeropuerto  |  lotnisko   |
+|     el taxi     |  taksówka   |
+|     el bus      |   autobus   |
+|   el autobús    |   autobus   |
+|   el teléfono   |   telefon   |
+|  el pasaporte   |  paszport   |
+|    la maleta    |   walizka   |
+|    la calle     |    ulica    |
+| el supermercado | supermarket |
+|    el dinero    |  pieniądze  |
+|     cerrado     |  zamknięty  |
+
 ## Restaurant
 
 ## Family
