@@ -69,3 +69,15 @@ Jest to zwrot grzecznościowy, używany także w języku formalnym.
 |   yo    |    soy    |    estoy    |    tengo     |
 |   tú    |   eres    |    estás    |    tienes    |
 | él/ella |    es     |    está     |    tiene     |
+
+## Przydatne zwroty
+
+> ¿Dónde está el supermercado? - Gdzie jest supermarket?
+
+> Tu autobús está aquí. - Twój autobus jest tutaj.
+
+> El pasaporte, por favor. - Paszport proszę.
+
+> En el tren. - W pociągu.
+
+> Yo necesito mi maleta. - Potrzebuję mojej walizki.
