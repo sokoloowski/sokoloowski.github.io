@@ -1,4 +1,4 @@
 
 ---
 
-© Sokol👀wski
+Piotr Sokołowski
