@@ -19,6 +19,11 @@ title: Español
 |   tú    |   wy    |
 |  ellos  | oni/one |
 
+Istnieje również zwrot "usted" znaczący "pan" lub "pani":
+
+-   Tú eres una mujer - ty jesteś kobietą
+-   Usted es una mujer - Pani jest kobietą
+
 ## Kolory
 
 | Español |  Polski   |
