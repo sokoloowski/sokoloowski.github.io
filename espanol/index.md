@@ -8,16 +8,20 @@ title: Español
 
 ## Osoby
 
-| Español | Polski  |
-| :-----: | :-----: |
-|   yo    |   ja    |
-|   tú    |   ty    |
-|   ér    |   on    |
-|  ella   |   ona   |
-|   eso   |   ono   |
-| nosotro |   my    |
-|   tú    |   wy    |
-|  ellos  | oni/one |
+| Español  | Polski  |
+| :------: | :-----: |
+|    yo    |   ja    |
+|    tú    |   ty    |
+|    ér    |   on    |
+|   ella   |   ona   |
+|   eso    |   ono   |
+| nosotro  |   my    |
+|    tú    |   wy    |
+|  ellos   | oni/one |
+|          |         |
+|    mi    |   mój   |
+|    tu    |  twój   |
+| jego/jej |   su    |
 
 Istnieje również zwrot "usted" znaczący "pan" lub "pani":
 
