@@ -6,8 +6,8 @@ title: Español
 
 ## Lekcje Duolingo
 
-* TOC
-{:toc}
+-   TOC
+    {:toc}
 
 ## Intro
 
