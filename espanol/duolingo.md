@@ -115,6 +115,19 @@ Słówka w lekcji:
 
 ## Flirting
 
+|                     Español                     |                            Polski                            |
+| :---------------------------------------------: | :----------------------------------------------------------: |
+| Cuando Dios inventó la belleza se inspiró en ti | Kiedy Bóg wymyślił piękno, został zainspirowany przez ciebie |
+|               ¿Ya nos conocemos?                |                 Czy my już się spotkaliśmy?                  |
+|           ¿Puedo ofrecerte una copa?            |                   Mogę ci postawić drinka?                   |
+|         Tu pareces a mi siguiente novia         |            Wyglądasz jak moja następna dziewczyna            |
+|                ¿Cómo te llamas?                 |                      Jak masz na imię?                       |
+|                 Hola, preciosa                  |                        Cześć, piękna                         |
+|             ¿Vienes aquí a menudo?              |                  Często tutaj przychodzisz?                  |
+|                   Hola, guapo                   |                     Cześć, przystojniaku                     |
+|          Tienes una sonrisa muy bonita          |                      Masz ładny uśmiech                      |
+|             ¿Quieres ser mi novio?              |                 Chcesz być moim chłopakiem?                  |
+
 ## Idioms
 
 ## Shopping
