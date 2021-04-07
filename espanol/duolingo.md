@@ -130,6 +130,17 @@ Słówka w lekcji:
 
 ## Idioms
 
+|                Español                |                   Polski                   |
+| :-----------------------------------: | :----------------------------------------: |
+|       Más vale tarde que nunca        |           Lepiej późno niż wcale           |
+|  Soldado avisado no muere en guerra   |       Przezorny zawsze ubezpieczony        |
+|   En boca cerrada no entran moscas    |           Milczenie jest złotem            |
+|         Borrón y cuenta nueva         |                Czyste konto                |
+|   Consejos vendo y para mí no tengo   |  Sprzedaję porady, ale nie mam dla siebie  |
+|       Donde hay humo, hay fuego       |       Gdzie jest dym, tam jest ogień       |
+| En tierra de ciegos, el tuerto es rey | W krainie niewidomych jednooki jest królem |
+|        De tal palo tal astilla        |           Jaki ojciec, taki syn            |
+
 ## Shopping
 
 ## Pres Tense 1
