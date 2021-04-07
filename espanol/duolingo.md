@@ -123,4 +123,39 @@ Słówka w lekcji:
 
 ## School
 
+Zaprzeczenia w języku hiszpańskim są dużo łatwiejsze niż w języku angielskim, składnią przypominają język polski - przed czasownikiem pojawia się słówko "no":
+
+> Yo no estudio inglés. - Nie uczę się angielskiego.
+
+> Yo no comprendo la pregunta. - Nie rozumiem pytania.
+
+Również bezokoliczniki używane są podobnie jak w języku polskim:
+
+> ¡Quiero hablar español! - Chcę mówić po hiszpańsku!
+
+> Yo necesito leer un libro. - Potrzebuję poczytać książkę.
+
+Słówka w lekcji:
+
+|      Español       |          Polski          |
+| :----------------: | :----------------------: |
+|      la clase      |    zajęcia (l. poj.)     |
+|   la computadora   |         komputer         |
+|   el estudiante    |     uczeń / student      |
+|     el examen      |         egzamin          |
+|      el libro      |         książka          |
+|     el maestro     |        nauczyciel        |
+| maestro de español | nauczyciel hiszpańskiego |
+|    la pregunta     |         pytanie          |
+|    el profesor     |         profesor         |
+|   el universidad   |       uniwersytet        |
+|      difícil       |          trudny          |
+|     importante     |          ważny           |
+|       fácil        |          łatwy           |
+|    interesante     |       interesujący       |
+|     comprender     |         rozumieć         |
+|      escribir      |          pisać           |
+|      estudiar      |  uczyć się / studiować   |
+|        leer        |          czytać          |
+
 ## People
