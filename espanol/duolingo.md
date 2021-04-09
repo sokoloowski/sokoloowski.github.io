@@ -179,6 +179,7 @@ Słówka w lekcji:
 |       Donde hay humo, hay fuego       |       Gdzie jest dym, tam jest ogień       |
 | En tierra de ciegos, el tuerto es rey | W krainie niewidomych jednooki jest królem |
 |        De tal palo tal astilla        |           Jaki ojciec, taki syn            |
+|    Barriga llena, corazón contento    |           Przez żołądek do serca           |
 
 ## Shopping
 
