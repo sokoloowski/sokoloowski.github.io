@@ -152,6 +152,50 @@ Słówka w lekcji:
 
 ## Family
 
+Pytania w języku hiszpańskim mają taką samą kolejność wyrazów jak zdania twierdzące. W języku mówionym wystarczy delikatnie podnieść głos (jak w języku polskim); pisząc, otaczamy pytanie znakami "¿" i "?":
+
+> Tú tienes un perro. - Ty masz psa.
+
+> ¿Tú tienes un perro? - Czy ty masz psa?
+
+W przypadku zdania złożonego, można otoczyć pytajnikami jedynie część, która jest pytaniem:
+
+> Hola, ¿está bien? - Cześć, jak się masz?
+
+Akcenty w języku hiszpańskim są bardzo ważne! Zależnie od użycia akcentu, słowa mogą zmieniać znaczenia:
+
+> tú - ty
+>
+> tu - twój
+
+> él - on
+>
+> el - przedrostek, odpowiednik angielskiego "the" dla rzeczowników rodzaju męskiego
+
+Słówka w lekcji:
+
+|    Español     |    Polski    |
+| :------------: | :----------: |
+|   la familia   |   rodzina    |
+|   un abuelo    |   dziadek    |
+|   una abuela   |    babcia    |
+|    el padre    |    ojciec    |
+|    la madre    |    matka     |
+|   el hermano   |     brat     |
+|   la hermana   |   siostra    |
+|   el esposo    |     mąż      |
+|   la esposa    |     żona     |
+|    el hijo     |     syn      |
+|    la hija     |    córka     |
+|    la casa     |     dom      |
+| el apartamento |  mieszkanie  |
+|    el carro    |   samochód   |
+|  el automóvil  |   samochód   |
+|  inteligente   | inteligentny |
+|    elegante    |  elegancki   |
+|    un gato     |     kot      |
+|    un perro    |     pies     |
+
 ## Flirting
 
 |                     Español                     |                            Polski                            |
