@@ -56,7 +56,7 @@ Jest to zwrot grzecznościowy, używany także w języku formalnym.
 
 #### Czasowniki z końcówką -er/-ir
 
-|         | -er/-ir | comer (jeść) | viver (żyć) |
+|         | -er/-ir | comer (jeść) | vivir (żyć) |
 | :-----: | :-----: | :----------: | :---------: |
 |   yo    |   -o    |     como     |    vivo     |
 |   tú    |   -es   |    comes     |    vives    |
