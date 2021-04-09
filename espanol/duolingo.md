@@ -259,6 +259,14 @@ Słówka w lekcji:
 
 ## Pres Tense 1
 
+Wszystkie czasowniki w języku hiszpańskim zmieniają końcówkę w zależności od tego, kto wykonuje daną czynność:
+
+|  podmiot  | czasownik (hablar) |
+| :-------: | :----------------: |
+|    yo     |       habl**o**        |
+|    tú     |       habl**as**       |
+| él / ella |       habl**a**        |
+
 ## School
 
 Zaprzeczenia w języku hiszpańskim są dużo łatwiejsze niż w języku angielskim, składnią przypominają język polski - przed czasownikiem pojawia się słówko "no":
