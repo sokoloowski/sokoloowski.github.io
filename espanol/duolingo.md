@@ -43,21 +43,25 @@ Słówka w lekcji:
 
 Wymowa w języku hiszpańskim:
 
--   -ll- - j
+-   `c` - `k`
+    -   café (kawa) - kafe
+-   `ll` - j
     -   calle (ulica) - kaje
     -   ella (ona) - eja
--   y - i
-    -   yo (ja) - io/jo
+-   `y` - i
+    -   yo (ja) - io / jo
     -   y (i) - i
--   h - nie wymawiamy
+-   `h` - nie wymawiamy
     -   hola (cześć) - ola
     -   hotel - otel
     -   hablo (mówię) - ablo
--   j - h
+-   `j`, `g` (w niektórych wyrazach), `x` - h
     -   mujer (kobieta) - muher
--   ch - cz
-    -   leche (mleko) - lecze/liecze
--   ñ - ń/ni
+    -   elegante (elegancki) - elehante
+    -   México (Meksyk) - Mehiko
+-   `ch` - cz
+    -   leche (mleko) - lecze / liecze
+-   `ñ` - ń / ni
     -   niño (chłopiec) - ninio
 
 Słówka w lekcji:
