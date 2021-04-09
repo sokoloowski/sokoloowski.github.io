@@ -191,10 +191,11 @@ Słówka w lekcji:
 | el apartamento |  mieszkanie  |
 |    el carro    |   samochód   |
 |  el automóvil  |   samochód   |
-|  inteligente   | inteligentny |
-|    elegante    |  elegancki   |
 |    un gato     |     kot      |
 |    un perro    |     pies     |
+|  inteligente   | inteligentny |
+|    elegante    |  elegancki   |
+|     grande     |     duży     |
 
 ## Flirting
 
