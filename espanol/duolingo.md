@@ -115,6 +115,41 @@ Słówka w lekcji:
 
 ## Restaurant
 
+Gdy prosimy o filiżankę kawy, język hiszpański przypomina angielski:
+
+> una taza de café - filiżanka kawy (ang. a cup of coffee)
+
+Tłumacząc ten zwrot dosłownie, otrzymamy "filiżankę z kawy". W ten sam sposób powiemy o soku pomarańczowym, jako soku z pomarańczy:
+
+> un jugo de naranja - sok pomarańczowy (ang. an orange juice)
+
+W tym wypadku jest już zupełnie inaczej niż po angielsku. Dlatego należy zapamiętać, że zamawiając coś do picia, czy jedzenia, korzystamy ze słówka "de".
+
+Słówka w lekcji:
+
+|      Español      |      Polski       |
+| :---------------: | :---------------: |
+|        uno        |       jeden       |
+|        dos        |        dwa        |
+|       tres        |       trzy        |
+|  el restaurante   |    restauracja    |
+|      el jugo      |        sok        |
+|      el vaso      |     szklanka      |
+|      la taza      | kubek / filiżanka |
+|     el tomate     |      pomidor      |
+|      la sal       |        sól        |
+|    la ensalada    |      sałatka      |
+|     la carne      |       mięso       |
+|      la mesa      |      stolik       |
+|    la reserva     |    rezerwacja     |
+|  la hamburguesa   |      burger       |
+|    el pescado     |       ryba        |
+|       queso       |        ser        |
+|     sándwich      |      kanapka      |
+| para dos personas |  dla dwóch osób   |
+|    con azúcar     |     z cukrem      |
+|     sin leche     |     bez mleka     |
+
 ## Family
 
 ## Flirting
