@@ -256,7 +256,8 @@ Słówka w lekcji:
 | maestro de español | nauczyciel hiszpańskiego |
 |    la pregunta     |         pytanie          |
 |    el profesor     |         profesor         |
-|   el universidad   |       uniwersytet        |
+|   la universidad   |       uniwersytet        |
+|    un problema     |         problem          |
 |      difícil       |          trudny          |
 |     importante     |          ważny           |
 |       fácil        |          łatwy           |
