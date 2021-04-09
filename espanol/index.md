@@ -41,6 +41,7 @@ Jest to zwrot grzecznościowy, używany także w języku formalnym.
 |   roja   | czerwony  |
 |  marrón  |  brązowy  |
 | amarillo |   żółty   |
+|  morado  | purpurowy |
 
 ## Czas teraźniejszy
 
