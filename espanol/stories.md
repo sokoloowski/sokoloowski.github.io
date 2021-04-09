@@ -29,7 +29,7 @@ title: Español
 |                              - ¿Qué?                              |                                  - Co?                                   |
 |                   - ¡Eso es sal! ¡No es azúcar!                   |                        - To jest sól! Nie cukier!                        |
 |                   - ¡María, estás muy cansada!                    |                     - María, jesteś bardzo zmęczona!                     |
-|        - Sí, necesito más café... ¡com azúcar, no con sal!        |          - Tak, potrzebuję więcej kawy... z cukrem, nie z solą!F          |
+|        - Sí, necesito más café... ¡com azúcar, no con sal!        |          - Tak, potrzebuję więcej kawy... z cukrem, nie z solą!          |
 
 ### Una cita
 
