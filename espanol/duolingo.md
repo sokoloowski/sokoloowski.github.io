@@ -227,6 +227,35 @@ Słówka w lekcji:
 
 ## Shopping
 
+W języku hiszpańskim, przymiotniki zazwyczaj pojawiają się po rzeczownikach, które określają:
+
+> un vestido azul - niebieska sukienka
+
+> una camisa roja - czerwona koszula
+
+> un reloj caro - drogi zegarek
+
+> un abrigo barato - tani płaszcz
+
+Słówka w lekcji:
+
+|   Español   |       Polski       |
+| :---------: | :----------------: |
+|  la tienda  |       sklep        |
+|   la ropa   |      ubrania       |
+| el vestido  |      sukienka      |
+|  la falda   |      spódnica      |
+|  la camisa  |      koszula       |
+| la camiseta | koszulka / T-shirt |
+|  el reloj   |      zegarek       |
+|  el abrigo  |      płaszcz       |
+| la chaqueta |       kurtka       |
+| el sombrero |       czapka       |
+|  el regalo  |      prezent       |
+|    caro     |       drogi        |
+|   barato    |        tani        |
+|  favorito   |      ulubiony      |
+
 ## Pres Tense 1
 
 ## School
